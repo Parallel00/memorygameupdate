@@ -1,0 +1,67 @@
+
+
+div2{
+    font-family: 'Comic Sans MS';
+    border: 1px solid red;
+}
+
+.div2:hover {
+    transform: rotateY(360deg);
+}
+
+h1{
+    text-align: center;
+    font-family: Helvetica;
+    color: whitesmoke;
+}
+
+#div3 {
+    border-style: inset;
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(151,151,236,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+body {
+    background-color: dimgray;
+}
+
+button{
+    border: ridge;
+}
+
+
+#start{
+    height: 90vh;
+    font-family: Helvetica;
+    color: blue;
+    position: relative;
+}
+
+#maingame div{
+    border: ridge;
+    width: 20%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#aboveContainer{
+    color: black;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#winTag{
+    font-family: Helvetica;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+h3{
+    font-family: Helvetica;
+    font-size: 40px;
+    color: whitesmoke;
+}
+
+label{
+    font-family: Helvetica;
+}
